@@ -1,2 +1,2 @@
 print("Hello, Ebo")
-#hello muugii
+#hello ebo
